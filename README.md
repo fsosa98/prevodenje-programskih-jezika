@@ -1,2 +1,2 @@
 # prevodenje-programskih-jezika
-Laboratorijske vježbe iz kolegija Prevođenje programskih jezika (engl. Programming Language Translation)
+Projekt iz kolegija Prevođenje programskih jezika (engl. Programming Language Translation). Sintaksna, semantička i leksička analiza koda te generiranje međukoda.
